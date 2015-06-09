@@ -33,6 +33,9 @@
     <ClInclude Include="Atom_Operation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Atom_String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -48,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Atom_Operation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Atom_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
